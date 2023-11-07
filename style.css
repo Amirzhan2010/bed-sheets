@@ -1,0 +1,18 @@
+body{ 
+    color: black;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+a{
+    color: black;
+    font-style: italic;
+    font-size: 20px;
+}
+address{
+    font-size: 25px;
+    color: black;
+}
